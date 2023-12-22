@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "categoryName": "Electronics",
+    "products": [
+      { "id": 101, "productName": "Laptop", "price": 999.99 },
+      { "id": 102, "productName": "Smartphone", "price": 599.99 },
+      { "id": 103, "productName": "Headphones", "price": 99.99 }
+    ]
+  },
+  {
+    "id": 2,
+    "categoryName": "Clothing",
+    "products": [
+      { "id": 201, "productName": "T-Shirt", "price": 19.99 },
+      { "id": 202, "productName": "Jeans", "price": 49.99 },
+      { "id": 203, "productName": "Sneakers", "price": 79.99 }
+    ]
+  },
+  {
+    "id": 3,
+    "categoryName": "Home and Kitchen",
+    "products": [
+      { "id": 301, "productName": "Coffee Maker", "price": 59.99 },
+      { "id": 302, "productName": "Cookware Set", "price": 129.99 },
+      { "id": 303, "productName": "Vacuum Cleaner", "price": 89.99 }
+    ]
+  },
+  {
+    "id": 4,
+    "categoryName": "Books",
+    "products": [
+      { "id": 401, "productName": "The Great Gatsby", "price": 12.99 },
+      { "id": 402, "productName": "To Kill a Mockingbird", "price": 15.99 },
+      { "id": 403, "productName": "1984", "price": 10.99 }
+    ]
+  },
+  {
+    "id": 5,
+    "categoryName": "Toys",
+    "products": [
+      { "id": 501, "productName": "Teddy Bear", "price": 9.99 },
+      { "id": 502, "productName": "Building Blocks", "price": 29.99 },
+      { "id": 503, "productName": "Dollhouse", "price": 39.99 }
+    ]
+  }
+]
